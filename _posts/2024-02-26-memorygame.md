@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Memory game
 permalink: /memorygame
-title: Memory Game
 ---
 <html lang="en">
 <head>
