@@ -44,7 +44,7 @@ title: Student Blog
         <h1>Welcome to Geography Games</h1>
         <p></p>
     </div>
-    <a href="https://jaydenchen17.github.io/casinosim/login" class="button">Login</a>
+    <a href="https://aidenk1.github.io/geocpt/login" class="button">Login</a>
     <div>
-    <a href="https://jaydenchen17.github.io/casinosim/signup" class="button">Signup</a>
+    <a href="https://aidenk1.github.io/geocpt/signup" class="button">Signup</a>
 
