@@ -3,13 +3,48 @@ layout: default
 title: Student Blog
 ---
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Webpage Title</title>
+    <style>
+        body {
+            background-image: url('images/geo.png');
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            color: #ffffff; /* Text color */
+            text-align: center;
+            padding: 50px; /* Add padding to the content */
+        }
+        .textbox {
+            background: rgba(0, 0, 0, 0.5);
+            border: 1px solid #ffffff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="textbox">
+        <h1>Welcome to Geography Games</h1>
+        <p></p>
+    </div>
+    <a href="https://jaydenchen17.github.io/casinosim/login" class="button">Login</a>
+    <div>
+    <a href="https://jaydenchen17.github.io/casinosim/signup" class="button">Signup</a>
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
-
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
